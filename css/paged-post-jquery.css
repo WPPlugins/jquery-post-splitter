@@ -1,0 +1,58 @@
+/* CSS Document */
+
+
+
+body.page .jps-wrap-content,
+
+
+
+body.single .jps-wrap-content{
+
+
+
+	display:none;
+
+
+
+}
+
+
+
+body.page .jps-wrap-content .jps-prev,
+
+
+
+body.page .jps-wrap-content .jps-next,
+
+
+
+body.single .jps-wrap-content .jps-prev,
+
+
+
+body.single .jps-wrap-content .jps-next{
+
+
+
+	cursor:pointer;
+
+
+
+}
+
+
+
+.jps-fullpost-link.hide{
+
+	display:none;
+
+}
+
+
+
+
+
+
+
+
+
